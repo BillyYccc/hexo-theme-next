@@ -803,3 +803,7 @@ images: images
 
 # Theme version
 version: 5.1.3
+
+# 启用版权
+passage_end_tag:
+  enabled: true
