@@ -11,6 +11,12 @@
 
 * [Chinese Documentation](README.cn.md)
 
+## Project Usage
+
+This is my custom style of NexT theme.
+
+* add cc-copyright at the end of every post
+
 ## Live Preview
 
 * :heart_decoration: Muse scheme: [XiaMo](https://notes.wanghao.work) | [OAwan](https://oawan.me) | [Hui Wang](http://hui-wang.info)
@@ -342,7 +348,7 @@ Contribution is welcome, feel free to open an issue and fork. Waiting for your p
 [browser-url]: https://www.browserstack.com
 
 [gitter-image]: https://badges.gitter.im/Join%20Chat.svg
-[gitter-url]: https://gitter.im/iissnan/hexo-theme-next?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+[gitter-url]: https://gitter.im/iissnan/hexo-theme-next?utm_source=badge&amp;amp;utm_medium=badge&amp;amp;utm_campaign=pr-badge&amp;amp;utm_content=badge
 
 [travis-image]: https://travis-ci.org/iissnan/hexo-theme-next.svg?branch=master
 [travis-url]: https://travis-ci.org/iissnan/hexo-theme-next?branch=master "Travis CI"
