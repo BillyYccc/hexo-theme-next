@@ -17,6 +17,10 @@ This is my custom style of NexT theme.
 
 * add cc-copyright at the end of every post
 
+* add canvas_nest effect
+
+* add livere comment
+
 ## Live Preview
 
 * :heart_decoration: Muse scheme: [XiaMo](https://notes.wanghao.work) | [OAwan](https://oawan.me) | [Hui Wang](http://hui-wang.info)
@@ -113,7 +117,7 @@ More NexT examples [here](https://github.com/iissnan/hexo-theme-next/issues/119)
     theme: next
 
 ### Bugs
-For those who also encounter **Error: Cannot find module 'hexo-util'** [issue](https://github.com/iissnan/hexo-theme-next/issues/1490), please check your NPM version. 
+For those who also encounter **Error: Cannot find module 'hexo-util'** [issue](https://github.com/iissnan/hexo-theme-next/issues/1490), please check your NPM version.
 
 - `> 3`: Still not work. Please remove `node_modules` directory and reinstall using `npm install`.
 - `< 3`: Please add `hexo-util` explicitly via `npm install --save-dev hexo-util` to you site package deps.
