@@ -21,6 +21,10 @@ This is my custom style of NexT theme.
 
 * add livere comment
 
+* customize footer
+
+* adjust favicon
+
 ## Live Preview
 
 * :heart_decoration: Muse scheme: [XiaMo](https://notes.wanghao.work) | [OAwan](https://oawan.me) | [Hui Wang](http://hui-wang.info)
